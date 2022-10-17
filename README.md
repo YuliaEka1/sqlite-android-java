@@ -3,4 +3,9 @@ NAMA : YULIA EKA ARDHANI <BR>
 KELAS : TI 3C <BR>
 NIM : 2041720064
 ## HASIL PRAKTIKUM
+1.
 ![EMPTY ACTIVITY](ss/hasil.jpeg)
+2.
+![EMPTY ACTIVITY](ss/hasil1.jpeg)
+3.
+![EMPTY ACTIVITY](ss/hasil2.jpeg)
